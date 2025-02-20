@@ -1,0 +1,1 @@
+This repository demonstrates a common but easily overlooked error in Python: failing to close files properly.  The bug.py file shows the erroneous code. The bugSolution.py file provides the corrected version with proper file closing using a `with` statement.
